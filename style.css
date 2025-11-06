@@ -1,0 +1,44 @@
+.navbar {
+    background: #1A2E62;
+}
+
+.bg {
+    background: #1A2E62;
+}
+
+.tema{
+    background: #1A2E62;
+}
+
+.user{
+    background: #1A2E62;
+}
+
+.team-card {
+    background-color: #1A2E62; 
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+    font-family: Arial, sans-serif;
+    margin: 20px auto; 
+}
+.team-card1 {
+    background-color: #2B4487; 
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    width: 250px;
+    font-family: Arial, sans-serif;
+    margin: 20px auto; 
+}
+
+.team-image img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
